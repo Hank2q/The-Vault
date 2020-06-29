@@ -1,0 +1,18 @@
+2020-06-04 05:36:58,763: [DEBUG]: [<module>]: GUI ran
+2020-06-04 05:37:02,909: [DEBUG]: [<module>]: GUI terminated
+2020-06-10 23:47:37,036: GUI ran
+2020-06-10 23:48:02,684: GUI terminated
+2020-06-21 15:00:00,903: GUI ran
+2020-06-29 05:40:35,911: GUI ran
+Traceback (most recent call last):
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\GUI.py", line 68, in <module>
+    simage = PhotoImage(file = 'sicon.ico')
+  File "C:\Users\HASSANIN\AppData\Local\Programs\Python\Python38-32\lib\tkinter\__init__.py", line 4061, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\HASSANIN\AppData\Local\Programs\Python\Python38-32\lib\tkinter\__init__.py", line 4006, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+_tkinter.TclError: couldn't recognize data in image file "sicon.ico"
+2020-06-29 05:40:54,573: GUI ran
+2020-06-29 05:41:06,889: GUI terminated
+2020-06-29 05:41:14,457: GUI ran
+2020-06-29 05:41:17,006: GUI terminated

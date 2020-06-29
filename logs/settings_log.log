@@ -1,0 +1,384 @@
+[DEBUG] - [log_factor]: 2-Step verification set to OFF
+[DEBUG] - [log_factor]: 2-Step verification set to ON
+[DEBUG] - [log_factor]: 2-Step verification set to OFF
+[DEBUG] - [log_factor]: 2-Step verification set to ON
+[DEBUG] - [log_factor]: 2-Step verification set to OFF
+[DEBUG] - [log_factor]: 2-Step verification set to ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[DEBUG] - [two_step_change]: 2-Step verification was set ON
+[DEBUG] - [two_step_change]: 2-Step verification was set OFF
+[INFO] - [change_password]: Attempting to change vault password
+[INFO] - [change_password]: Vault password was changed
+[INFO] - [__init__]: Attempting to change vault password
+[INFO]: Attempting to change vault password
+[INFO]: Attempting to change vault password
+[INFO]: Vault password was changed
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempt to change vault email from: python.hank@gmail.com to hassanien.alkaissi@outlook.com
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempt to change vault email from: "python.hank@gmail.com" to "hassanien.kaissi@gmail.com"
+[DEBUG]: Attempt to change vault email
+from: "python.hank@gmail.com"
+to: "hassanien.alkaissi@outlook.com"
+[DEBUG]: Attempt to change vault email
+from: "python.hank@gmail.com"
+to: "hassanien_omx3@hotmail.com"
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[INFO]: Vault password was changed
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[INFO]: Vault password was changed
+[DEBUG]: Attempting to change vault password
+[INFO]: Vault password was changed
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[INFO]: Vault password was changed
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: 2-Step verification was set ON
+[DEBUG]: 2-Step verification was set OFF
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempt to change vault email
+from: "python.hank@gmail.com"
+to: "hassanien.alkaissi@outlook.com"
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[DEBUG]: Attempting to change vault password
+[INFO]: Vault password was changed

@@ -1,0 +1,1469 @@
+vault: [INFO]: show_files: items listed
+vault: [DEBUG]: get: attempting to get file: alog.text from vault
+vault: [DEBUG]: get: file: alog.text in the vault
+vault: [DEBUG]: get: file: alog.text written to temp folder
+vault: [INFO]: get: file: alog.text ran successfully
+vault: [DEBUG]: get: attempting to get file: test.txt from vault
+vault: [DEBUG]: get: file: test.txt in the vault
+vault: [DEBUG]: get: file: test.txt written to temp folder
+vault: [INFO]: get: file: test.txt ran successfully
+vault: [DEBUG]: clean_up: temporary items removed
+vault: [INFO]: show_files: items listed
+vault: [INFO]: show_files: items listed
+vault: [DEBUG]: clean_up: temporary items successfully removed
+vault: [INFO]: show_files: items listed
+vault: [DEBUG]: get: attempting to get file: "test.txt" from vault
+vault: [DEBUG]: get: file: "test.txt" in the vault
+vault: [DEBUG]: get: file: "test.txt" written to temp folder
+vault: [INFO]: get: file: "test.txt" ran successfully
+vault: [DEBUG]: clean_up: temporary items removed
+vault: [INFO]: show_files: items listed
+vault: [DEBUG]: clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "test.txt" from vault
+vault - get: file: "test.txt" in the vault
+vault - get: file: "test.txt" written to temp folder
+vault - get: file: "test.txt" ran successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "test.txt" from vault
+vault - get: file: "test.txt" in the vault
+vault - get: file: "test.txt" written to temp folder
+vault - get: file: "test.txt" ran successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "test.txt" from vault
+vault - get: file: "test.txt" in the vault
+vault - get: file: "test.txt" written to temp folder
+vault - get: file: "test.txt" ran successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - get: attempting to get file: "test.txt" from vault
+vault - get: file: "test.txt" in the vault
+vault - get: file: "test.txt" written to temp folder
+vault - get: file: "test.txt" ran successfully
+vault - remove: attempting to delete file: "unnamed.png" from the vault
+vault - remove: file: "unnamed.png" deleted successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - remove: attempting to delete file: "test.txt" from the vault
+vault - remove: file: "test.txt" deleted successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "alog.text" from vault
+vault - get: file: "alog.text" in the vault
+vault - get: file: "alog.text" written to temp folder
+vault - get: file: "alog.text" ran successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "alog.text" from vault
+vault - get: file: "alog.text" in the vault
+vault - get: file: "alog.text" written to temp folder
+vault - get: file: "alog.text" ran successfully
+vault - remove: attempting to delete file: "alog.text" from the vault
+vault - remove: file: "alog.text" deleted successfully
+vault - clean_up: temporary items removed
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - store: attempting to add file: "unnamed.png" to the vault
+vault - store: file: "unnamed.png" successfully added
+vault - store: attempting to add file: "alog.txt" to the vault
+vault - store: file: "alog.txt" successfully added
+vault - show_files: items listed
+vault - remove: attempting to delete file: "unnamed.png" from the vault
+vault - remove: file: "unnamed.png" deleted successfully
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "" from vault
+vault - get: attempting to get file: "" from vault
+vault - get: attempting to get file: "" from vault
+vault - get: attempting to get file: "" from vault
+vault - get: attempting to get file: "" from vault
+vault - get: attempting to get file: "" from vault
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - store: attempting to add file: "opened.png" to the vault
+vault - store: file: "opened.png" successfully added
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: temporary items removed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "opened.png" from vault
+vault - get: file: "opened.png" in the vault
+vault - get: file: "opened.png" written to temp folder
+vault - get: file: "opened.png" ran successfully
+vault - remove: attempting to delete file: "opened.png" from the vault
+vault - remove: file: "opened.png" deleted successfully
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "C:/Users/HASSANIN/Desktop/unnamed.png" to the vault
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "C:/Users/HASSANIN/Desktop/unnamed.png" to the vault
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "C:/Users/HASSANIN/Desktop/unnamed.png" to the vault
+vault - store: file: "C:/Users/HASSANIN/Desktop/unnamed.png" successfully added
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - remove: attempting to delete file: "unnamed.png" from the vault
+vault - remove: file: "unnamed.png" deleted successfully
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "unnamed.png" to the vault
+vault - store: file: "unnamed.png" successfully added
+vault - store: attempting to add file: "iconfinder_vault_87929.ico" to the vault
+vault - store: file: "iconfinder_vault_87929.ico" successfully added
+vault - get: attempting to get file: "iconfinder_vault_87929.ico" from vault
+vault - get: file: "iconfinder_vault_87929.ico" in the vault
+vault - get: file: "iconfinder_vault_87929.ico" written to temp folder
+vault - get: file: "iconfinder_vault_87929.ico" ran successfully
+vault - remove: attempting to delete file: "iconfinder_vault_87929.ico" from the vault
+vault - remove: file: "iconfinder_vault_87929.ico" deleted successfully
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - clean_up: cleaning up temporary
+vault - show_files: items listed
+vault - show_files: items listed
+vault - clean_up: temporary items successfully removed
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "opened.png" to the vault
+vault - store: file: "opened.png" successfully added
+vault - get: attempting to get file: "alog.txt" from vault
+vault - get: file: "alog.txt" in the vault
+vault - get: file: "alog.txt" written to temp folder
+vault - get: file: "alog.txt" ran successfully
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "opened.png" from vault
+vault - get: file: "opened.png" in the vault
+vault - get: file: "opened.png" written to temp folder
+vault - get: file: "opened.png" ran successfully
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - get: attempting to get file: "alog.txt" from vault
+vault - get: file: "alog.txt" in the vault
+vault - get: file: "alog.txt" written to temp folder
+vault - get: file: "alog.txt" ran successfully
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "adv_options.ini" to the vault
+vault - store: file: "adv_options.ini" successfully added
+vault - store: attempting to add file: "config.cfg" to the vault
+vault - store: file: "config.cfg" successfully added
+vault - store: attempting to add file: "config.zip" to the vault
+vault - store: file: "config.zip" successfully added
+vault - store: attempting to add file: "config-2BADE6C8-001587968461.cfg" to the vault
+vault - store: file: "config-2BADE6C8-001587968461.cfg" successfully added
+vault - store: attempting to add file: "ppsod.dat" to the vault
+vault - store: file: "ppsod.dat" successfully added
+vault - store: attempting to add file: "settings.1890B920.iw8" to the vault
+vault - store: file: "settings.1890B920.iw8" successfully added
+vault - store: attempting to add file: "user_keys.kb" to the vault
+vault - store: file: "user_keys.kb" successfully added
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - remove: attempting to delete file: "adv_options.ini" from the vault
+vault - remove: file: "adv_options.ini" deleted successfully
+vault - remove: attempting to delete file: "config-2BADE6C8-001587968461.cfg" from the vault
+vault - remove: file: "config-2BADE6C8-001587968461.cfg" deleted successfully
+vault - remove: attempting to delete file: "config.zip" from the vault
+vault - remove: file: "config.zip" deleted successfully
+vault - remove: attempting to delete file: "user_keys.kb" from the vault
+vault - remove: file: "user_keys.kb" deleted successfully
+vault - remove: attempting to delete file: "settings.1890B920.iw8" from the vault
+vault - remove: file: "settings.1890B920.iw8" deleted successfully
+vault - remove: attempting to delete file: "ppsod.dat" from the vault
+vault - remove: file: "ppsod.dat" deleted successfully
+vault - remove: attempting to delete file: "config.cfg" from the vault
+vault - remove: file: "config.cfg" deleted successfully
+vault - store: attempting to add file: "Hunter.Killer.2018.1080p.WEBRip.x264-[YTS.AM].mp4" to the vault
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - store: attempting to add file: "Cinderella Man (2005) 720p 600MB.mkv" to the vault
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+vault - show_files: items listed
+vault - get: attempting to get file: "" from vault
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" written to temp folder
+vault - get: file: "unnamed.png" ran successfully
+vault - get: attempting to get file: "unnamed.png" from vault
+vault - get: file: "unnamed.png" in the vault
+vault - get: file: "unnamed.png" already in temporary view folder, was not written again
+vault - get: file: "unnamed.png" ran successfully
+vault - get: attempting to get file: "alog.txt" from vault
+vault - get: file: "alog.txt" in the vault
+vault - get: file: "alog.txt" written to temp folder
+vault - get: file: "alog.txt" ran successfully
+vault - get: attempting to get file: "opened.png" from vault
+vault - get: file: "opened.png" in the vault
+vault - get: file: "opened.png" written to temp folder
+vault - get: file: "opened.png" ran successfully
+vault - get: attempting to get file: "alog.txt" from vault
+vault - get: file: "alog.txt" in the vault
+vault - get: file: "alog.txt" already in temporary view folder, was not written again
+vault - get: file: "alog.txt" ran successfully
+vault - clean_up: cleaning up temporary
+vault - clean_up: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "Cinderella Man (2005) 720p 600MB.mkv" to the vault
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "AhaShare.com.txt" to the vault
+[DEBUG] - [store]: file: "AhaShare.com.txt" successfully added
+[DEBUG] - [store]: attempting to add file: "Torrent downloaded from Demonoid.com - Copy.txt" to the vault
+[DEBUG] - [store]: file: "Torrent downloaded from Demonoid.com - Copy.txt" successfully added
+[DEBUG] - [remove]: attempting to delete file: "Torrent downloaded from Demonoid.com - Copy.txt" from the vault
+[INFO] - [remove]: file: "Torrent downloaded from Demonoid.com - Copy.txt" deleted successfully
+[DEBUG] - [get]: attempting to get file: "" from vault
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" written to temp folder
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "opened.png" from vault
+[DEBUG] - [get]: file: "opened.png" in the vault
+[DEBUG] - [get]: file: "opened.png" written to temp folder
+[INFO] - [get]: file: "opened.png" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "alchemist.epub" to the vault
+[DEBUG] - [store]: file: "alchemist.epub" successfully added
+[DEBUG] - [get]: attempting to get file: "AhaShare.com.txt" from vault
+[DEBUG] - [get]: file: "AhaShare.com.txt" in the vault
+[DEBUG] - [get]: file: "AhaShare.com.txt" written to temp folder
+[INFO] - [get]: file: "AhaShare.com.txt" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "2" from vault
+[DEBUG] - [get]: attempting to get file: "2" from vault
+[DEBUG] - [get]: attempting to get file: "19" from vault
+[DEBUG] - [remove]: attempting to delete file: "19" from the vault
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "unnamed.png" from vault
+[DEBUG] - [get]: file: "unnamed.png" in the vault
+[DEBUG] - [get]: file: "unnamed.png" written to temp folder
+[INFO] - [get]: file: "unnamed.png" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" written to temp folder
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "Webp.net-resizeimage (3).png" to the vault
+[DEBUG] - [store]: file: "Webp.net-resizeimage (3).png" successfully added
+[DEBUG] - [store]: attempting to add file: "Webp.net-resizeimage (2).png" to the vault
+[DEBUG] - [store]: file: "Webp.net-resizeimage (2).png" successfully added
+[DEBUG] - [store]: attempting to add file: "Webp.net-resizeimage (1).png" to the vault
+[DEBUG] - [store]: file: "Webp.net-resizeimage (1).png" successfully added
+[DEBUG] - [store]: attempting to add file: "Webp.net-resizeimage.png" to the vault
+[DEBUG] - [store]: file: "Webp.net-resizeimage.png" successfully added
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (3).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (3).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (3).png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage (3).png" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (2).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (2).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (2).png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage (2).png" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (1).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (1).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (1).png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage (1).png" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage.png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage.png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage.png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage.png" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (3).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (3).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (3).png" already in temporary view folder, was not written again
+[INFO] - [get]: file: "Webp.net-resizeimage (3).png" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [remove]: attempting to delete file: "Webp.net-resizeimage (3).png" from the vault
+[INFO] - [remove]: file: "Webp.net-resizeimage (3).png" deleted successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [remove]: attempting to delete file: "Webp.net-resizeimage (2).png" from the vault
+[INFO] - [remove]: file: "Webp.net-resizeimage (2).png" deleted successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "Webp.net-resizeimage (2).png" to the vault
+[DEBUG] - [store]: file: "Webp.net-resizeimage (2).png" successfully added
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "alchemist.epub" from vault
+[DEBUG] - [get]: file: "alchemist.epub" in the vault
+[DEBUG] - [get]: file: "alchemist.epub" written to temp folder
+[INFO] - [get]: file: "alchemist.epub" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "alchemist.epub" from vault
+[DEBUG] - [get]: file: "alchemist.epub" in the vault
+[DEBUG] - [get]: file: "alchemist.epub" written to temp folder
+[INFO] - [get]: file: "alchemist.epub" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" written to temp folder
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" written to temp folder
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" written to temp folder
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.log" from vault
+[DEBUG] - [store]: attempting to add file: "test.log" to the vault
+[DEBUG] - [store]: file: "test.log" successfully added
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" written to temp folder
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (1).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (1).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (1).png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage (1).png" ran successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" written to temp folder
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" written to temp folder
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [get]: attempting to get file: "alog.txt" from vault
+[DEBUG] - [get]: file: "alog.txt" in the vault
+[DEBUG] - [get]: file: "alog.txt" already in temporary view folder, was not written again
+[INFO] - [get]: file: "alog.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "test.log" from vault
+[DEBUG] - [get]: file: "test.log" in the vault
+[DEBUG] - [get]: file: "test.log" already in temporary view folder, was not written again
+[INFO] - [get]: file: "test.log" ran successfully
+[DEBUG] - [remove]: attempting to delete file: "test.log" from the vault
+[INFO] - [remove]: file: "test.log" deleted successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "HOTEL INDIGO'S CONTRACT OF AGREEMENT OF HASSANIEN ALKAISSI.pdf" to the vault
+[DEBUG] - [store]: file: "HOTEL INDIGO'S CONTRACT OF AGREEMENT OF HASSANIEN ALKAISSI.pdf" successfully added
+[INFO] - [show_files]: items listed
+[DEBUG] - [remove]: attempting to delete file: "HOTEL INDIGO'S CONTRACT OF AGREEMENT OF HASSANIEN ALKAISSI.pdf" from the vault
+[INFO] - [remove]: file: "HOTEL INDIGO'S CONTRACT OF AGREEMENT OF HASSANIEN ALKAISSI.pdf" deleted successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
