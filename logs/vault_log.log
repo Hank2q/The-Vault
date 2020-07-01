@@ -1467,3 +1467,38 @@ vault - clean_up: temporary items successfully removed
 [INFO] - [show_files]: items listed
 [DEBUG] - [clean_up]: cleaning up temporary
 [DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [get]: attempting to get file: "AhaShare.com.txt" from vault
+[DEBUG] - [get]: file: "AhaShare.com.txt" in the vault
+[DEBUG] - [get]: file: "AhaShare.com.txt" written to temp folder
+[INFO] - [get]: file: "AhaShare.com.txt" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (1).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (1).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (1).png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage (1).png" ran successfully
+[DEBUG] - [remove]: attempting to delete file: "alchemist.epub" from the vault
+[INFO] - [remove]: file: "alchemist.epub" deleted successfully
+[DEBUG] - [get]: attempting to get file: "opened.png" from vault
+[DEBUG] - [get]: file: "opened.png" in the vault
+[DEBUG] - [get]: file: "opened.png" written to temp folder
+[INFO] - [get]: file: "opened.png" ran successfully
+[DEBUG] - [get]: attempting to get file: "unnamed.png" from vault
+[DEBUG] - [get]: file: "unnamed.png" in the vault
+[DEBUG] - [get]: file: "unnamed.png" written to temp folder
+[INFO] - [get]: file: "unnamed.png" ran successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage.png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage.png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage.png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage.png" ran successfully
+[DEBUG] - [remove]: attempting to delete file: "Webp.net-resizeimage.png" from the vault
+[INFO] - [remove]: file: "Webp.net-resizeimage.png" deleted successfully
+[DEBUG] - [get]: attempting to get file: "Webp.net-resizeimage (2).png" from vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (2).png" in the vault
+[DEBUG] - [get]: file: "Webp.net-resizeimage (2).png" written to temp folder
+[INFO] - [get]: file: "Webp.net-resizeimage (2).png" ran successfully
+[DEBUG] - [remove]: attempting to delete file: "Webp.net-resizeimage (2).png" from the vault
+[INFO] - [remove]: file: "Webp.net-resizeimage (2).png" deleted successfully
+[DEBUG] - [remove]: attempting to delete file: "Webp.net-resizeimage (1).png" from the vault
+[INFO] - [remove]: file: "Webp.net-resizeimage (1).png" deleted successfully
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed

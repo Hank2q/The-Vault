@@ -16,3 +16,5 @@ _tkinter.TclError: couldn't recognize data in image file "sicon.ico"
 2020-06-29 05:41:06,889: GUI terminated
 2020-06-29 05:41:14,457: GUI ran
 2020-06-29 05:41:17,006: GUI terminated
+2020-07-01 22:54:55,916: GUI ran
+2020-07-01 22:55:47,685: GUI terminated
