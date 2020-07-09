@@ -1502,3 +1502,8 @@ vault - clean_up: temporary items successfully removed
 [INFO] - [remove]: file: "Webp.net-resizeimage (1).png" deleted successfully
 [DEBUG] - [clean_up]: cleaning up temporary
 [DEBUG] - [clean_up]: temporary items successfully removed
+[INFO] - [show_files]: items listed
+[DEBUG] - [store]: attempting to add file: "github-recovery-codes - Copy.txt" to the vault
+[DEBUG] - [store]: file: "github-recovery-codes - Copy.txt" successfully added
+[DEBUG] - [clean_up]: cleaning up temporary
+[DEBUG] - [clean_up]: temporary items successfully removed
