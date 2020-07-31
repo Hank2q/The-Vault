@@ -1,14 +1,17 @@
 from tkinter import *
 from shelve import open as sopen
 from tkinter import messagebox, filedialog, ttk
-import vault, os
+import os
 from authentication import Authenticator
 from settings import MainWindow as setting
 from ezlog import MyLogger
+from vault import Vault
+
 
 log = MyLogger(name='GUI', form='time: msg', file='logs/gui.log', stream=False)
 log.log_errors()
 
+vault = Vault('cache/the_vault', True)
 
 with sopen('cache/settings') as s:
     pwd = s['password']
@@ -21,7 +24,8 @@ if not check.correct:
 
 
 def store():
-    file = filedialog.askopenfilename(filetypes=[('all files', '*.*')], multiple=True, parent=root)
+    file = filedialog.askopenfilename(
+        filetypes=[('all files', '*.*')], multiple=True, parent=root)
     if file != '':
         if len(file) == 1:
             file = file[0]
@@ -39,22 +43,23 @@ def ask(_):
 
 
 def move_file(file):
-    check = messagebox.askyesno(title='Move file', message=f'Do you want to move "{file}" out of the vault?')
+    check = messagebox.askyesno(
+        title='Move file', message=f'Do you want to move "{file}" out of the vault?')
     if check:
-        name, data = vault.remove(file)
         new_place = filedialog.askdirectory()
-        name = os.path.join(new_place, name)
-        with open(name, 'wb') as f:
-            f.write(data)
-        files_box.delete(ANCHOR)
+        if new_place:
+            vault.move_out(file, new_place)
+            files_box.delete(ANCHOR)
 
 
 def delete_file(file):
-    check = messagebox.askyesno('Delete file', f'Are you sure you want to permenantly delete "{file}"', icon=messagebox.WARNING)
+    check = messagebox.askyesno(
+        'Delete file', f'Are you sure you want to permenantly delete "{file}"', icon=messagebox.WARNING)
     if check:
         vault.remove(file)
         files_box.delete(ANCHOR)
-      
+
+
 log.debug('GUI ran')
 root = Tk()
 root.title("The Vault")
@@ -62,10 +67,10 @@ root.geometry('700x515')
 root.iconbitmap('vicon.ico')
 root.resizable(False, False)
 
-sframe= Frame(root)
+sframe = Frame(root)
 sframe.pack(fill=X)
 
-simage = PhotoImage(file = 'small.png')
+simage = PhotoImage(file='small.png')
 settings_button = ttk.Button(sframe, image=simage, command=setting)
 settings_button.pack(side=RIGHT, padx=10)
 
@@ -79,7 +84,7 @@ files_frame.pack(fill=BOTH, pady=15, padx=10)
 
 
 files_box = Listbox(files_frame, font='15', height=15, width=60)
-for item in sorted(vault.show_files()):
+for item in sorted(vault.keys):
     files_box.insert(END, item)
 files_box.pack(fill=X, side=LEFT)
 files_box.bind("<Double-Button-3>", ask)
@@ -92,10 +97,13 @@ files_scroll.pack(fill=Y, side=LEFT)
 
 
 buttons = Frame(root, relief='sunken')
-buttons.pack(side=BOTTOM ,fill=X, padx=10)
-open_button = ttk.Button(buttons,  text='Open', command=lambda: vault.get(files_box.get(ANCHOR)))
-move_button = ttk.Button(buttons, text='Move', command=lambda: move_file(files_box.get(ANCHOR)))
-delete_button = ttk.Button(buttons, text='Delete', command=lambda: delete_file(files_box.get(ANCHOR)))
+buttons.pack(side=BOTTOM, fill=X, padx=10)
+open_button = ttk.Button(buttons,  text='Open',
+                         command=lambda: vault.get(files_box.get(ANCHOR)))
+move_button = ttk.Button(buttons, text='Move',
+                         command=lambda: move_file(files_box.get(ANCHOR)))
+delete_button = ttk.Button(buttons, text='Delete',
+                           command=lambda: delete_file(files_box.get(ANCHOR)))
 open_button.pack(side=LEFT, pady=2)
 move_button.pack(side=LEFT, pady=2)
 delete_button.pack(side=LEFT, pady=2)

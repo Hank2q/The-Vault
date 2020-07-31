@@ -1,75 +1,117 @@
-import shelve
-import os, sys
-import subprocess
-import mimetypes
+import sqlite3
+import os
+from cryptography.fernet import Fernet
 import ezlog
 
-vault_log = ezlog.MyLogger(name='vault_log', form='[level] - [function]: msg', file='logs/vault_log.log')
+vault_log = ezlog.MyLogger(
+    name='vault_log', form='time:[level][function]: msg', file='logs/vault_log.log')
 
 
-def store(file):
-    if os.path.isfile(file):
+class Vault:
+    KEY = b'f0e0HQdoUptcnOHYOjmhbjiYCYzPojVFSOhsoLwOMik='
+    CRYPTER = Fernet(KEY)
+
+    def __init__(self, name, encrypted=False):
+        try:
+            os.mkdir('temp')
+            vault_log.info('making temporary folder')
+        except FileExistsError:
+            pass
+
+        self.name = name
+        self.db = sqlite3.connect(name)
+        self.c = self.db.cursor()
+        try:
+            self.db.execute('''
+            CREATE TABLE files (filename varchar(255) PRIMARY KEY NOT NULL UNIQUE, data TEXT)''')
+            vault_log.info('creating database')
+        except Exception:
+            pass
+
+        self.encrypted = encrypted
+
+    def store(self, file):
         basename = os.path.basename(file)
-        vault_log.debug(f'attempting to add file: "{basename}" to the vault')
-        with shelve.open('cache/the_vault') as db:
-            db[basename] = {'name': basename, 'data': open(file, 'rb').read()}
+        vault_log.debug(f'Attempting to add file: "{basename}" to the vault')
+        with open(file, 'rb') as f:
+            data = f.read() if not self.encrypted else self.encrypt(f.read())
+        with self.db:
+            self.c.execute("insert into files values (?, ?);",
+                           (basename, data))
         os.remove(file)
         vault_log.debug(f'file: "{basename}" successfully added')
 
+    def show_files(self):
+        output = self.c.execute('select filename from files')
+        vault_log.info('items listed')
+        return [name[0]for name in output.fetchall()]
 
-
-def show_files():
-    vault_log.info('items listed')
-    
-    with shelve.open('cache/the_vault') as db:
-        files = [key for key in db.keys()]
-    return files
-
-
-def get(file):
-    temp_items = os.listdir('temps')
-    
-    vault_log.debug(f'attempting to get file: "{file}" from vault')
-    
-    with shelve.open('cache/the_vault') as db:
-        if file in db.keys():
-            vault_log.debug(f'file: "{file}" in the vault')
-            
-            if file not in temp_items:
-
-                vault_log.debug(f'file: "{file}" written to temp folder')
-                
-                with open('temps/'+ file, 'wb') as unlock:
-                    unlock.write(db[file]['data'])
-            else:
-                vault_log.debug(f'file: "{file}" already in temporary view folder, was not written again')
-
-            os.popen(f'"temps\\{file}"')
+    def get(self, file):
+        temp_items = os.listdir('temp')
+        vault_log.debug(f'Attempting to get file: "{file}" from vault')
+        if file in self.keys and file not in temp_items:
+            vault_log.debug(f'file: "{file}" written to temp folder')
+            result = self.c.execute(
+                'SELECT * FROM files WHERE filename=?', (file,))
+            filename, data = result.fetchone()
+            if self.encrypted:
+                data = self.decrypt(data)
+            with open('temp/' + filename, 'wb') as unlock:
+                unlock.write(data)
+            os.popen(f'"temp/{file}"')
             vault_log.info(f'file: "{file}" ran successfully')
-
-
-
-def clean_up():
-    vault_log.debug('cleaning up temporary')
-    
-    for file in os.listdir('temps'):
-        os.remove('temps/'+file)
-
-    vault_log.debug('temporary items successfully removed')
-
-
-def remove(file):
-    vault_log.debug(f'attempting to delete file: "{file}" from the vault')
-    
-    with shelve.open('cache/the_vault') as db:
-        if file in db.keys():
-            file_data = db[file]['data']
-            file_name = db[file]['name']
-            
-            del db[file]
-            vault_log.info(f'file: "{file}" deleted successfully')
         else:
-            vault_log.info(f'file: "{file}" not in the vault')
+            vault_log.debug(
+                f'file: "{file}" is not in database or is already in temporary view folder')
 
-    return file_name, file_data
+    def remove(self, file):
+        vault_log.debug(f'attempting to delete file: "{file}" from the vault')
+        if file in self.keys:
+            result = self.c.execute(
+                'SELECT * FROM files WHERE filename=?', (file,))
+            filename, data = result.fetchone()
+            if self.encrypted:
+                data = self.decrypt(data)
+            with self.db:
+                self.c.execute(
+                    'DELETE FROM files where filename=?', (filename,))
+            self.vacuum()
+            vault_log.debug(
+                f'file: "{file}" was deleted from database')
+            return filename, data
 
+    def move_out(self, file, destination='.'):
+        if file in self.keys:
+            filename, data = self.remove(file)
+            with open(f'{destination}/{filename}', 'wb') as moved:
+                moved.write(data)
+            vault_log.debug(
+                f'file: "{file}" moved out of the vault to {destination}')
+
+    def vacuum(self):
+        with self.db:
+            self.c.execute('VACUUM')
+        vault_log.info('database extra size vacuumed')
+
+    @staticmethod
+    def encrypt(data):
+        vault_log.info('data for file encrypted')
+        return Vault.CRYPTER.encrypt(data)
+
+    @staticmethod
+    def decrypt(data):
+        vault_log.info('data for file dencrypted')
+        return Vault.CRYPTER.decrypt(data)
+
+    @property
+    def keys(self):
+        output = self.c.execute('SELECT filename FROM files')
+        vault_log.info('items listed')
+        return [name[0] for name in output.fetchall()]
+
+    @staticmethod
+    def clean_up():
+        vault_log.debug('cleaning up temporary')
+        for file in os.listdir('temp'):
+            os.remove('temp/' + file)
+        vault_log.debug('temporary items successfully removed')
