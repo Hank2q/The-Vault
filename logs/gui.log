@@ -1,0 +1,54 @@
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\HASSANIN\AppData\Local\Programs\Python\Python38-32\lib\logging\__init__.py", line 1084, in emit
+    stream.write(msg + self.terminator)
+AttributeError: 'NoneType' object has no attribute 'write'
+Call stack:
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\The Vault.pyw", line 15, in <module>
+    vault = Vault('data/the_vault', True)
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 16, in __init__
+    self.make_dir('cache')
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 35, in make_dir
+    vault_log.info(f'making {name} folder')
+Message: 'making cache folder'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\HASSANIN\AppData\Local\Programs\Python\Python38-32\lib\logging\__init__.py", line 1084, in emit
+    stream.write(msg + self.terminator)
+AttributeError: 'NoneType' object has no attribute 'write'
+Call stack:
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\The Vault.pyw", line 15, in <module>
+    vault = Vault('data/the_vault', True)
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 17, in __init__
+    self.make_dir('temp')
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 35, in make_dir
+    vault_log.info(f'making {name} folder')
+Message: 'making temp folder'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\HASSANIN\AppData\Local\Programs\Python\Python38-32\lib\logging\__init__.py", line 1084, in emit
+    stream.write(msg + self.terminator)
+AttributeError: 'NoneType' object has no attribute 'write'
+Call stack:
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\The Vault.pyw", line 15, in <module>
+    vault = Vault('data/the_vault', True)
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 18, in __init__
+    self.make_dir('data')
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 35, in make_dir
+    vault_log.info(f'making {name} folder')
+Message: 'making data folder'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\HASSANIN\AppData\Local\Programs\Python\Python38-32\lib\logging\__init__.py", line 1084, in emit
+    stream.write(msg + self.terminator)
+AttributeError: 'NoneType' object has no attribute 'write'
+Call stack:
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\The Vault.pyw", line 15, in <module>
+    vault = Vault('data/the_vault', True)
+  File "C:\Users\HASSANIN\Desktop\PythonProj\vault\vault.py", line 25, in __init__
+    vault_log.info('creating database')
+Message: 'creating database'
+Arguments: ()
