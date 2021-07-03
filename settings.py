@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk, messagebox, BooleanVar
 from shelve import open as sopen
 import bcrypt
-from assets import key_generator, email_validator, EmailSender
+from assets import email_validator, EmailSender
 from tkinter.simpledialog import askstring
 from ezlog import MyLogger
 

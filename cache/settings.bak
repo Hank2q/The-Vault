@@ -1,5 +1,0 @@
-'password', (0, 67)
-'factors', (512, 4)
-'email', (1024, 10)
-'vault email', (2048, 10)
-'vault email password', (2560, 10)

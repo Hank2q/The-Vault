@@ -2,21 +2,30 @@ from tkinter import *
 from shelve import open as sopen
 from tkinter import messagebox, filedialog, ttk
 import os
+import sys
 from authentication import Authenticator
 from settings import MainWindow as setting
 from ezlog import MyLogger
 from vault import Vault
-
+from setup import Setup
 
 log = MyLogger(name='GUI', form='time: msg', file='logs/gui.log', stream=False)
 log.log_errors()
 
-vault = Vault('cache/the_vault', True)
+vault = Vault('data/the_vault', True)
 
 with sopen('cache/settings') as s:
-    pwd = s['password']
-    twos = s['factors']
-    email = s['email']
+    try:
+        pwd = s['password']
+        email = s['email']
+        twos = s['factors']
+    except KeyError:
+        new_vaules = Setup()
+        if not new_vaules.done:
+            sys.exit()
+        pwd = new_vaules.password
+        email = new_vaules.email
+        twos = False
 
 check = Authenticator(email, pwd, twos)
 if not check.correct:

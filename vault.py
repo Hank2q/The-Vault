@@ -12,12 +12,10 @@ class Vault:
     CRYPTER = Fernet(KEY)
 
     def __init__(self, name, encrypted=False):
-        try:
-            os.mkdir('temp')
-            vault_log.info('making temporary folder')
-        except FileExistsError:
-            pass
 
+        self.make_dir('cache')
+        self.make_dir('temp')
+        self.make_dir('data')
         self.name = name
         self.db = sqlite3.connect(name)
         self.c = self.db.cursor()
@@ -29,6 +27,14 @@ class Vault:
             pass
 
         self.encrypted = encrypted
+
+    @staticmethod
+    def make_dir(name):
+        try:
+            os.mkdir(name)
+            vault_log.info(f'making {name} folder')
+        except FileExistsError:
+            pass
 
     def store(self, file):
         basename = os.path.basename(file)
